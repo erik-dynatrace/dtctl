@@ -1,4 +1,5 @@
 ---
+redirect_to: https://github.com/dynatrace-oss/dtctl/blob/main/docs/resources/filter-segments.md
 layout: docs
 title: "Filter Segments"
 ---

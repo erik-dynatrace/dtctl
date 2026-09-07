@@ -1,4 +1,5 @@
 ---
+redirect_to: https://github.com/dynatrace-oss/dtctl/blob/main/docs/resources/lookup-tables.md
 layout: docs
 title: Lookup Tables
 ---

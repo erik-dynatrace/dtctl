@@ -1,4 +1,5 @@
 ---
+redirect_to: https://github.com/dynatrace-oss/dtctl/blob/main/docs/resources/dashboards-notebooks.md
 layout: docs
 title: "Dashboards & Notebooks"
 ---

@@ -1,4 +1,5 @@
 ---
+redirect_to: https://github.com/dynatrace-oss/dtctl/blob/main/docs/EXTENSIONS.md
 layout: docs
 title: Extensions 2.0
 ---
