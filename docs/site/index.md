@@ -1,4 +1,5 @@
 ---
+redirect_to: https://docs.dynatrace.com/docs/shortlink/dtctl-cli
 layout: default
 title: Home
 ---

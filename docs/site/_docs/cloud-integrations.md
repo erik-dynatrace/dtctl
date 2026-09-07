@@ -1,4 +1,5 @@
 ---
+redirect_to: https://github.com/dynatrace-oss/dtctl/blob/main/docs/resources/cloud-integrations.md
 layout: docs
 title: Cloud Integrations
 ---

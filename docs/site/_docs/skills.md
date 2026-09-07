@@ -1,4 +1,5 @@
 ---
+redirect_to: https://github.com/dynatrace-oss/dtctl/blob/main/docs/AGENT_SKILLS.md
 layout: docs
 title: AI Agent Skills
 ---

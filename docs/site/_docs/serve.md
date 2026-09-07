@@ -1,4 +1,5 @@
 ---
+redirect_to: https://github.com/dynatrace-oss/dtctl/blob/main/docs/SERVE.md
 layout: docs
 title: Server Mode
 ---
